@@ -44,7 +44,7 @@ may or may not work properly. If you are new to Splunk, follow [these instructio
 
 | App / Add-on | Version | Download |
 | ----------- | ------- | -------- |
-| Splunk Enterprise | 6.5.2 | http://www.splunk.com
+| Splunk Enterprise | 6.5.2 | https://www.splunk.com
 | Fortinet Fortigate Add-on for Splunk | 1.3 |https://splunkbase.splunk.com/app/2846
 | Splunk Add-on for Tenable |5.0.0 | https://splunkbase.splunk.com/app/1710/ |Note v5.0.0 is no longer publicly available. Use v5.1.1 instead.
 | Splunk Stream Add-on (Note Stream 6.6.1 is no longer available. Use Version 7.1.1 instead.) | 6.6.1 |https://splunkbase.splunk.com/app/1809/ 
